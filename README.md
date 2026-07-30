@@ -3,7 +3,7 @@
 <br><br>
 
 <a href="https://github.com/PabloskyGR">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Hola,+soy+Jose+Pablo;Desarrollador+Full+Stack+y+Mobile;Transformando+ideas+en+soluciones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Hola,+soy+Pablo;Desarrollador+Full+Stack;Transformo+ideas+en+soluciones" alt="Typing SVG" />
 </a>
 <br>
 
