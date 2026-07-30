@@ -16,15 +16,15 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Desarrollador Junior Full Stack** graduado en DAM y afincado en Sevilla, España[cite: 1]. Me apasiona crear soluciones eficientes, escalables y con un diseño impecable. 
+Soy un **Desarrollador Junior Full Stack** graduado en DAM y nacido en Sevilla, España. Me apasiona crear soluciones eficientes, escalables y con un diseño impecable. 
 
 Actualmente ofrezco mis servicios como desarrollador y me especializo en:
 * 🏢 **Webs Corporativas y Landing Pages** de alto impacto.
 * 🛒 **Plataformas E-commerce** y pasarelas de pago.
 * 💻 **Web Apps (SaaS)** complejas y escalables.
-* 📱 **Aplicaciones Móviles** nativas y multiplataforma (Android)[cite: 1].
+* 📱 **Aplicaciones Móviles** multiplataforma.
 
-Me integro perfectamente en metodologías ágiles (Scrum) y arquitecturas MVC/MVVM, asegurando siempre un código limpio y mantenible[cite: 1].
+Me integro perfectamente en metodologías ágiles (Scrum) y arquitecturas MVC/MVVM, asegurando siempre un código limpio y mantenible.
 
 ---
 
@@ -49,32 +49,15 @@ Me integro perfectamente en metodologías ágiles (Scrum) y arquitecturas MVC/MV
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-### 📱 Mobile & 🗄️ Bases de Datos
+### 📱 Mobile
 <div align="center">
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
+
+### 🗄️ Bases de Datos
+<div align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-</div>
-
----
-
-## 📊 Estadísticas, Actividad y Trofeos
-
-<div align="center">
-<img height="25px" src="https://visitcount.itsvg.in/api?id=PabloskyGR&label=Visitas%20al%20perfil&color=0077B5&icon=5&pretty=true" alt="Visitas" />
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PabloskyGR&theme=tokyonight&column=6&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=PabloskyGR&bg_color=1A1B27&title_color=70A5FD&color=70A5FD&line=394b70&point=70A5FD&hide_border=true&custom_title=Mi%20Actividad%20Anual" width="100%" alt="Actividad" />
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloskyGR&layout=compact&theme=tokyonight&hide_border=true" height="190" alt="Lenguajes" />
-<img src="https://github-readme-stats.vercel.app/api?username=PabloskyGR&show_icons=true&theme=tokyonight&hide_border=true" height="190" alt="Estadisticas" />
-<br><br>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Chiste" />
 </div>
