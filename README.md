@@ -16,19 +16,25 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Desarrollador Junior Full Stack** graduado en DAM y nacido en Sevilla, España. Me apasiona crear soluciones eficientes, escalables y con un diseño impecable. 
+Soy **Técnico Superior en Desarrollo de Aplicaciones (DAM)** y **Desarrollador Full Stack** en Sevilla. Mi enfoque principal es utilizar el código como herramienta para optimizar procesos de negocio y mejorar la eficiencia operativa.
 
-Actualmente ofrezco mis servicios como desarrollador y me especializo en:
-* 🏢 **Webs Corporativas y Landing Pages** de alto impacto.
-* 🛒 **Plataformas E-commerce** y pasarelas de pago.
-* 💻 **Web Apps (SaaS)** complejas y escalables.
-* 📱 **Aplicaciones Móviles** multiplataforma.
+Actualmente trabajo como **Analista de Operaciones y Automatización**, donde me dedico a:
+- ⚙️ **Automatización de procesos (n8n, Python):** Diseño e implementación de flujos de trabajo para conectar plataformas, gestionar APIs y agilizar la operativa logística y administrativa.
+- 💻 **Desarrollo de Web Apps y Dashboards:** Creación de soluciones a medida (Frontend y Backend) para la gestión del almacén y el control de datos del negocio.
+- 🌐 **Desarrollo Web Integral:** Experiencia sólida en la creación de aplicaciones escalables, plataformas e-commerce y arquitecturas MVC.
 
-Me integro perfectamente en metodologías ágiles (Scrum) y arquitecturas MVC/MVVM, asegurando siempre un código limpio y mantenible.
+Me considero un perfil resolutivo, analítico y capaz de integrarme en arquitecturas complejas para crear herramientas tecnológicas que generen un impacto real y cuantificable en las empresas.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
+
+### 🤖 Automatización & Herramientas
+<div align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
 
 ### 🌐 Frontend
 <div align="center">
@@ -49,15 +55,15 @@ Me integro perfectamente en metodologías ágiles (Scrum) y arquitecturas MVC/MV
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-### 📱 Mobile
-<div align="center">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</div>
-
 ### 🗄️ Bases de Datos
 <div align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
+</div>
+
+### 📱 Mobile
+<div align="center">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
